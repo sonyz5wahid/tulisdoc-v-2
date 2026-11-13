@@ -27,4 +27,3 @@ jobs:
         with:
           name: TulisDoc-APK
           path: app/build/outputs/apk/debug/app-debug.apk
-```[cite: 1]
